@@ -1,0 +1,2 @@
+# BlueMap Config Files
+
